@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627645801395",
+    "firebase_url": "https://rfidandroidbackend.firebaseio.com",
+    "project_id": "rfidandroidbackend",
+    "storage_bucket": "rfidandroidbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627645801395:android:765d1d0ffe58770d",
+        "android_client_info": {
+          "package_name": "com.example.zumoappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627645801395-2uo9tq9aul1nbeaiatp98a53ho6lihn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zumoappname",
+            "certificate_hash": "56c277663de8f53a526ef2879bd5dbdeb1b1f91f"
+          }
+        },
+        {
+          "client_id": "627645801395-048kmgq7dl8tpla37fql96narugunvph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1DjBM9pICSZf7dzzoeGV3tBYjoVEgmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627645801395-048kmgq7dl8tpla37fql96narugunvph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
